@@ -3,7 +3,7 @@
 The Tetris running in Excel.
 
 ## Demo
-![](https://github.com/koirand/ExcelTetris/wiki/images/Demo.gif)
+![](https://koirand.github.io/img/Tetris.xlsm.png)
 
 ## Usage
 Run bin/tetris.xlsm
