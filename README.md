@@ -1,4 +1,4 @@
-# Tetris.xlsm
+# tetris.xlsm
 
 The Tetris running in Excel.
 
